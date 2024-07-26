@@ -8,7 +8,7 @@ Links to online resources:
 
 The packages introduced are as follows: 
 Spatial subsampling: [`divvy`](https://cran.r-project.org/web/packages/divvy/index.html) 
-Filtering occurrences: ['spThin'](https://cran.r-project.org/web/packages/spThin/index.html)
+Filtering occurrences: [`spThin`](https://cran.r-project.org/web/packages/spThin/index.html)
 Species distribution modelling: [`megaSDM`](https://github.com/brshipley/megaSDM) 
 Tuning and evaluating ecological niche models: [`ENMeval`](https://cran.r-project.org/web/packages/ENMeval/index.html) 
 Reproducible modeling of species niches and distributions: [`Wallace`](https://wallaceecomod.github.io/) 
